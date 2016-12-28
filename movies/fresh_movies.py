@@ -57,3 +57,9 @@ movies =[riverdale,blade_runner,john_wick,a_monster_calls,rogue_one,assasins_cre
 
 fresh_tomatoes.open_movies_page(movies)
 
+print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
+print(media.Movie.__name__)
+print(media.Movie.__module__)
+
+
