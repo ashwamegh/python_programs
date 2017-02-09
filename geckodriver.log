@@ -1,0 +1,109 @@
+1486660610073	geckodriver	INFO	Listening on 127.0.0.1:12874
+1486660612089	mozprofile::profile	INFO	Using profile path C:\Users\ASHWAM~1\AppData\Local\Temp\rust_mozprofile.j1XMfFcnKUH9
+1486660612104	geckodriver::marionette	INFO	Starting browser C:\Program Files\Firefox Developer Edition\firefox.exe
+1486660612120	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12882
+1486660616644	Marionette	INFO	Listening on port 12882
+[GPU 7956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486660708950	addons.xpi	WARN	Exception running bootstrap method shutdown on shield-recipe-client@mozilla.org: ReferenceError: LogManager is not defined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/shield-recipe-client@mozilla.org.xpi!/bootstrap.js:65:3) JS Stack trace: this.shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/shield-recipe-client@bootstrap.js:65:3 < callBootstrapMethod@XPIProvider.jsm:4903:11 < observe@XPIProvider.jsm:2884:15
+[GPU 7956] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486660709055	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 1364] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1364] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1486660723257	geckodriver	INFO	Listening on 127.0.0.1:13041
+1486660725284	mozprofile::profile	INFO	Using profile path C:\Users\ASHWAM~1\AppData\Local\Temp\rust_mozprofile.ZSNuEusKv64z
+1486660725284	geckodriver::marionette	INFO	Starting browser C:\Program Files\Firefox Developer Edition\firefox.exe
+1486660725299	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13049
+1486660727910	Marionette	INFO	Listening on port 13049
+[GPU 6480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1486661211309	addons.xpi	WARN	Exception running bootstrap method shutdown on shield-recipe-client@mozilla.org: ReferenceError: LogManager is not defined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/shield-recipe-client@mozilla.org.xpi!/bootstrap.js:65:3) JS Stack trace: this.shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/shield-recipe-client@bootstrap.js:65:3 < callBootstrapMethod@XPIProvider.jsm:4903:11 < observe@XPIProvider.jsm:2884:15
+[GPU 6480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin1486661224408	addons.xpi	WARN	Exception running bootstrap method shutdown on shield-recipe-client@mozilla.org: ReferenceError: LogManager is not defined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/shield-recipe-client@mozilla.org.xpi!/bootstrap.js:65:3) JS Stack trace: this.shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Firefox%20Developer%20Edition/browser/features/shield-recipe-client@bootstrap.js:65:3 < callBootstrapMethod@XPIProvider.jsm:4903:11 < observe@XPIProvider.jsm:2884:15
+[Child 7188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 7188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x44008D,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
