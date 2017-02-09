@@ -1,4 +1,6 @@
 #Python 3.6.0
+#pip install selenium
+#download geckodriver: https://github.com/mozilla/geckodriver/releases/tag/v0.14.0
 
 from selenium import webdriver
 import time
